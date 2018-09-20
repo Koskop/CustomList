@@ -304,7 +304,11 @@ public class MyList<E> implements List<E> {
 
     @Override
     public E get(int index) {
-        return null;
+        Iterator iterator = this.iterator();
+        for (int i = 0; i < index-1 ; i++) {
+            iterator.next();
+        }
+        return (E)iterator.next();
     }
 
     @Override

@@ -198,6 +198,13 @@ public class MyListTest {
 
     @Test
     public void get() {
+        List list1 = new MyList();
+        list1.add("A");
+        list1.add("B");
+        list1.add("C");
+        list1.add("D");
+
+        System.out.println(list1.get(2));
     }
 
     @Test

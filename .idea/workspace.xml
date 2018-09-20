@@ -9,28 +9,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/Tests/com/company/MyListTest.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="347">
-                    <caret line="178" column="31" lean-forward="true" selection-start-line="178" selection-start-column="31" selection-end-line="178" selection-end-column="31" />
-                    <folding>
-                      <element signature="imports" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="2055118559">
       <usages-collector id="statistics.lifecycle.project">
@@ -98,14 +76,48 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1891270715">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="390" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="390" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -113,44 +125,46 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/MyList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="277" column="41" lean-forward="true" selection-start-line="277" selection-start-column="41" selection-end-line="277" selection-end-column="41" />
+            <state relative-caret-position="295">
+              <caret line="312" column="9" lean-forward="true" selection-start-line="312" selection-start-column="9" selection-end-line="312" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="class#MyIterator#0;class#MyList#0" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
+                <element signature="e#721#722#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
                 <element signature="e#820#821#0" expanded="true" />
                 <element signature="e#865#866#0" expanded="true" />
                 <element signature="class#MyListIterator#0;class#MyList#0" />
                 <element signature="method#remove#0;class#MyListIterator#0;class#MyList#0" />
-                <element signature="method#pop#0;class#MyList#0" />
                 <element signature="method#push#0;class#MyList#0" />
                 <element signature="method#find#0;class#MyList#0" />
-                <element signature="method#isEmpty#0;class#MyList#0" />
+                <element signature="e#3981#3982#0" expanded="true" />
+                <element signature="e#4008#4009#0" expanded="true" />
+                <element signature="e#4277#4278#0" expanded="true" />
+                <element signature="e#4316#4317#0" expanded="true" />
+                <element signature="e#4682#4683#0" expanded="true" />
+                <element signature="e#4709#4710#0" expanded="true" />
                 <element signature="method#add#0;class#MyList#0" />
                 <element signature="method#remove#0;class#MyList#0" />
-                <element signature="e#6039#6040#0" expanded="true" />
-                <element signature="e#6067#6068#0" expanded="true" />
-                <element signature="e#6130#6131#0" expanded="true" />
-                <element signature="e#6158#6159#0" expanded="true" />
+                <element signature="method#addAll#1;class#MyList#0" />
                 <element signature="method#clear#0;class#MyList#0" />
-                <element signature="e#6251#6252#0" expanded="true" />
-                <element signature="e#6278#6279#0" expanded="true" />
-                <element signature="e#6334#6335#0" expanded="true" />
-                <element signature="e#6361#6362#0" expanded="true" />
+                <element signature="e#6667#6668#0" expanded="true" />
+                <element signature="e#6694#6695#0" expanded="true" />
                 <element signature="method#add#1;class#MyList#0" />
-                <element signature="e#6475#6476#0" expanded="true" />
-                <element signature="e#6502#6503#0" expanded="true" />
-                <element signature="e#6552#6553#0" expanded="true" />
-                <element signature="e#6576#6577#0" expanded="true" />
-                <element signature="e#6630#6631#0" expanded="true" />
-                <element signature="e#6654#6655#0" expanded="true" />
-                <element signature="e#6713#6714#0" expanded="true" />
-                <element signature="e#6756#6757#0" expanded="true" />
-                <element signature="e#6824#6825#0" expanded="true" />
-                <element signature="e#6851#6852#0" expanded="true" />
-                <element signature="e#6923#6924#0" expanded="true" />
-                <element signature="e#6950#6951#0" expanded="true" />
                 <element signature="method#toString#0;class#MyList#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/com/company/MyListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="206" column="38" selection-start-line="206" selection-start-column="38" selection-end-line="206" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -165,6 +179,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -182,11 +199,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="174" />
-    <option name="y" value="-22" />
-    <option name="width" value="709" />
-    <option name="height" value="722" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="173" />
+    <option name="y" value="-23" />
+    <option name="width" value="710" />
+    <option name="height" value="723" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -231,7 +248,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537482718434" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537487112169" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -259,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyListTest.addAll1">
+  <component name="RunManager" selected="JUnit.MyListTest.get">
     <configuration name="MyListTest.addAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CustomList" />
       <extension name="coverage">
@@ -292,7 +309,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyListTest.containsAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyListTest.contains" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CustomList" />
       <extension name="coverage">
         <pattern>
@@ -302,13 +319,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.company" />
       <option name="MAIN_CLASS_NAME" value="com.company.MyListTest" />
-      <option name="METHOD_NAME" value="containsAll" />
+      <option name="METHOD_NAME" value="contains" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyListTest.iterator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyListTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CustomList" />
       <extension name="coverage">
         <pattern>
@@ -318,13 +335,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.company" />
       <option name="MAIN_CLASS_NAME" value="com.company.MyListTest" />
-      <option name="METHOD_NAME" value="iterator" />
+      <option name="METHOD_NAME" value="get" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyListTest.toArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyListTest.isEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CustomList" />
       <extension name="coverage">
         <pattern>
@@ -334,26 +351,26 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.company" />
       <option name="MAIN_CLASS_NAME" value="com.company.MyListTest" />
-      <option name="METHOD_NAME" value="toArray" />
+      <option name="METHOD_NAME" value="isEmpty" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.MyListTest.iterator" />
-      <item itemvalue="JUnit.MyListTest.toArray" />
-      <item itemvalue="JUnit.MyListTest.containsAll" />
       <item itemvalue="JUnit.MyListTest.addAll" />
       <item itemvalue="JUnit.MyListTest.addAll1" />
+      <item itemvalue="JUnit.MyListTest.isEmpty" />
+      <item itemvalue="JUnit.MyListTest.contains" />
+      <item itemvalue="JUnit.MyListTest.get" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyListTest.get" />
+        <item itemvalue="JUnit.MyListTest.contains" />
+        <item itemvalue="JUnit.MyListTest.isEmpty" />
         <item itemvalue="JUnit.MyListTest.addAll1" />
         <item itemvalue="JUnit.MyListTest.addAll" />
-        <item itemvalue="JUnit.MyListTest.containsAll" />
-        <item itemvalue="JUnit.MyListTest.toArray" />
-        <item itemvalue="JUnit.MyListTest.iterator" />
       </list>
     </recent_temporary>
   </component>
@@ -369,46 +386,47 @@
       <updated>1537436974525</updated>
       <workItem from="1537467984112" duration="7920000" />
       <workItem from="1537476356982" duration="6792000" />
+      <workItem from="1537483688335" duration="3396000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyListTest_addAll - 2018.09.21 at 01h 12m 59s.xml">
-      <configuration name="MyListTest.addAll" configurationId="JUnit" />
+    <history-entry file="MyListTest_get - 2018.09.21 at 02h 34m 17s.xml">
+      <configuration name="MyListTest.get" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyListTest_addAll - 2018.09.21 at 01h 13m 43s.xml">
-      <configuration name="MyListTest.addAll" configurationId="JUnit" />
+    <history-entry file="MyListTest_get - 2018.09.21 at 02h 34m 41s.xml">
+      <configuration name="MyListTest.get" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyListTest_addAll1 - 2018.09.21 at 01h 24m 39s.xml">
-      <configuration name="MyListTest.addAll1" configurationId="JUnit" />
+    <history-entry file="MyListTest_get - 2018.09.21 at 02h 36m 26s.xml">
+      <configuration name="MyListTest.get" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyListTest_addAll1 - 2018.09.21 at 01h 25m 55s.xml">
-      <configuration name="MyListTest.addAll1" configurationId="JUnit" />
+    <history-entry file="MyListTest_get - 2018.09.21 at 02h 37m 25s.xml">
+      <configuration name="MyListTest.get" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyListTest_addAll1 - 2018.09.21 at 01h 26m 24s.xml">
-      <configuration name="MyListTest.addAll1" configurationId="JUnit" />
+    <history-entry file="MyListTest_get - 2018.09.21 at 02h 37m 28s.xml">
+      <configuration name="MyListTest.get" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyListTest_addAll1 - 2018.09.21 at 01h 27m 38s.xml">
-      <configuration name="MyListTest.addAll1" configurationId="JUnit" />
+    <history-entry file="MyListTest_get - 2018.09.21 at 02h 37m 57s.xml">
+      <configuration name="MyListTest.get" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyListTest_addAll1 - 2018.09.21 at 01h 28m 03s.xml">
-      <configuration name="MyListTest.addAll1" configurationId="JUnit" />
+    <history-entry file="MyListTest_get - 2018.09.21 at 02h 38m 17s.xml">
+      <configuration name="MyListTest.get" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyListTest_addAll1 - 2018.09.21 at 01h 28m 34s.xml">
-      <configuration name="MyListTest.addAll1" configurationId="JUnit" />
+    <history-entry file="MyListTest_get - 2018.09.21 at 02h 38m 31s.xml">
+      <configuration name="MyListTest.get" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyListTest_addAll1 - 2018.09.21 at 01h 30m 50s.xml">
-      <configuration name="MyListTest.addAll1" configurationId="JUnit" />
+    <history-entry file="MyListTest_get - 2018.09.21 at 02h 38m 40s.xml">
+      <configuration name="MyListTest.get" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyListTest_addAll1 - 2018.09.21 at 01h 31m 18s.xml">
-      <configuration name="MyListTest.addAll1" configurationId="JUnit" />
+    <history-entry file="MyListTest_get - 2018.09.21 at 02h 39m 46s.xml">
+      <configuration name="MyListTest.get" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14712000" />
+    <option name="totallyTimeSpent" value="18108000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1096" height="1906" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.4681467" />
@@ -421,14 +439,14 @@
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.17268623" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.34468085" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39672688" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295711" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32844242" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -458,63 +476,56 @@
     <entry file="file://$PROJECT_DIR$/src/tests/com/company/MyListTest.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/requests/FilterRequest.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
+    <entry file="file://$PROJECT_DIR$/CustomList.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/MyList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="277" column="41" lean-forward="true" selection-start-line="277" selection-start-column="41" selection-end-line="277" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#MyIterator#0;class#MyList#0" />
-            <element signature="e#820#821#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="class#MyListIterator#0;class#MyList#0" />
-            <element signature="method#remove#0;class#MyListIterator#0;class#MyList#0" />
-            <element signature="method#pop#0;class#MyList#0" />
-            <element signature="method#push#0;class#MyList#0" />
-            <element signature="method#find#0;class#MyList#0" />
-            <element signature="method#isEmpty#0;class#MyList#0" />
-            <element signature="method#add#0;class#MyList#0" />
-            <element signature="method#remove#0;class#MyList#0" />
-            <element signature="e#6039#6040#0" expanded="true" />
-            <element signature="e#6067#6068#0" expanded="true" />
-            <element signature="e#6130#6131#0" expanded="true" />
-            <element signature="e#6158#6159#0" expanded="true" />
-            <element signature="method#clear#0;class#MyList#0" />
-            <element signature="e#6251#6252#0" expanded="true" />
-            <element signature="e#6278#6279#0" expanded="true" />
-            <element signature="e#6334#6335#0" expanded="true" />
-            <element signature="e#6361#6362#0" expanded="true" />
-            <element signature="method#add#1;class#MyList#0" />
-            <element signature="e#6475#6476#0" expanded="true" />
-            <element signature="e#6502#6503#0" expanded="true" />
-            <element signature="e#6552#6553#0" expanded="true" />
-            <element signature="e#6576#6577#0" expanded="true" />
-            <element signature="e#6630#6631#0" expanded="true" />
-            <element signature="e#6654#6655#0" expanded="true" />
-            <element signature="e#6713#6714#0" expanded="true" />
-            <element signature="e#6756#6757#0" expanded="true" />
-            <element signature="e#6824#6825#0" expanded="true" />
-            <element signature="e#6851#6852#0" expanded="true" />
-            <element signature="e#6923#6924#0" expanded="true" />
-            <element signature="e#6950#6951#0" expanded="true" />
-            <element signature="method#toString#0;class#MyList#0" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/com/company/MyListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="178" column="31" lean-forward="true" selection-start-line="178" selection-start-column="31" selection-end-line="178" selection-end-column="31" />
+        <state relative-caret-position="193">
+          <caret line="206" column="38" selection-start-line="206" selection-start-column="38" selection-end-line="206" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="312" column="9" lean-forward="true" selection-start-line="312" selection-start-column="9" selection-end-line="312" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="class#MyListIterator#0;class#MyList#0" />
+            <element signature="method#remove#0;class#MyListIterator#0;class#MyList#0" />
+            <element signature="method#push#0;class#MyList#0" />
+            <element signature="method#find#0;class#MyList#0" />
+            <element signature="e#3981#3982#0" expanded="true" />
+            <element signature="e#4008#4009#0" expanded="true" />
+            <element signature="e#4277#4278#0" expanded="true" />
+            <element signature="e#4316#4317#0" expanded="true" />
+            <element signature="e#4682#4683#0" expanded="true" />
+            <element signature="e#4709#4710#0" expanded="true" />
+            <element signature="method#add#0;class#MyList#0" />
+            <element signature="method#remove#0;class#MyList#0" />
+            <element signature="method#addAll#1;class#MyList#0" />
+            <element signature="method#clear#0;class#MyList#0" />
+            <element signature="e#6667#6668#0" expanded="true" />
+            <element signature="e#6694#6695#0" expanded="true" />
+            <element signature="method#add#1;class#MyList#0" />
+            <element signature="method#toString#0;class#MyList#0" />
           </folding>
         </state>
       </provider>
