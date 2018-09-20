@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64bbeb68-9de1-459e-80d0-e87838f28d99" name="Default Changelist" comment="" />
+    <list default="true" id="64bbeb68-9de1-459e-80d0-e87838f28d99" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/com/company/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/company/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MyList.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,6 +13,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/Tests/com/company/MyListTest.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="463">
+                    <caret line="222" column="40" selection-start-line="222" selection-start-column="40" selection-end-line="222" selection-end-column="40" />
+                    <folding>
+                      <element signature="imports" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
   <component name="FUSProjectUsageTrigger">
     <session id="2055118559">
       <usages-collector id="statistics.lifecycle.project">
@@ -46,19 +75,20 @@
     <session id="-1611259848">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1341" />
+          <entry key="java" value="1462" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1341" />
+          <entry key="JAVA" value="1462" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -125,8 +155,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/MyList.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="295">
               <caret line="312" column="9" lean-forward="true" selection-start-line="312" selection-start-column="9" selection-end-line="312" selection-end-column="9" />
+=======
+            <state relative-caret-position="1299">
+              <caret line="320" column="9" lean-forward="true" selection-start-line="320" selection-start-column="9" selection-end-line="320" selection-end-column="9" />
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#618#619#0" expanded="true" />
@@ -147,11 +182,29 @@
                 <element signature="e#4709#4710#0" expanded="true" />
                 <element signature="method#add#0;class#MyList#0" />
                 <element signature="method#remove#0;class#MyList#0" />
+<<<<<<< HEAD
                 <element signature="method#addAll#1;class#MyList#0" />
                 <element signature="method#clear#0;class#MyList#0" />
                 <element signature="e#6667#6668#0" expanded="true" />
                 <element signature="e#6694#6695#0" expanded="true" />
                 <element signature="method#add#1;class#MyList#0" />
+=======
+                <element signature="e#6694#6695#0" expanded="true" />
+                <element signature="e#6721#6722#0" expanded="true" />
+                <element signature="method#add#1;class#MyList#0" />
+                <element signature="e#6918#6919#0" expanded="true" />
+                <element signature="e#6945#6946#0" expanded="true" />
+                <element signature="e#6995#6996#0" expanded="true" />
+                <element signature="e#7019#7020#0" expanded="true" />
+                <element signature="e#7073#7074#0" expanded="true" />
+                <element signature="e#7097#7098#0" expanded="true" />
+                <element signature="e#7156#7157#0" expanded="true" />
+                <element signature="e#7199#7200#0" expanded="true" />
+                <element signature="e#7267#7268#0" expanded="true" />
+                <element signature="e#7294#7295#0" expanded="true" />
+                <element signature="e#7366#7367#0" expanded="true" />
+                <element signature="e#7393#7394#0" expanded="true" />
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
                 <element signature="method#toString#0;class#MyList#0" />
               </folding>
             </state>
@@ -188,8 +241,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/tests/com/company/MyListTest.java" />
-        <option value="$PROJECT_DIR$/Tests/com/company/MyListTest.java" />
         <option value="$PROJECT_DIR$/src/com/company/MyList.java" />
+        <option value="$PROJECT_DIR$/Tests/com/company/MyListTest.java" />
       </list>
     </option>
   </component>
@@ -200,11 +253,19 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="173" />
     <option name="y" value="-23" />
     <option name="width" value="710" />
     <option name="height" value="723" />
+=======
+    <option name="x" value="174" />
+    <option name="y" value="-22" />
+    <option name="width" value="709" />
+    <option name="height" value="722" />
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -248,7 +309,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537487112169" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537484577588" />
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -276,7 +341,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="JUnit.MyListTest.get">
+=======
+  <component name="RunManager" selected="JUnit.MyListTest.set">
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
     <configuration name="MyListTest.addAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CustomList" />
       <extension name="coverage">
@@ -309,7 +378,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="MyListTest.contains" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="MyListTest.clear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
       <module name="CustomList" />
       <extension name="coverage">
         <pattern>
@@ -319,13 +392,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.company" />
       <option name="MAIN_CLASS_NAME" value="com.company.MyListTest" />
+<<<<<<< HEAD
       <option name="METHOD_NAME" value="contains" />
+=======
+      <option name="METHOD_NAME" value="clear" />
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="MyListTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="MyListTest.containsAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
       <module name="CustomList" />
       <extension name="coverage">
         <pattern>
@@ -335,13 +416,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.company" />
       <option name="MAIN_CLASS_NAME" value="com.company.MyListTest" />
+<<<<<<< HEAD
       <option name="METHOD_NAME" value="get" />
+=======
+      <option name="METHOD_NAME" value="containsAll" />
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="MyListTest.isEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="MyListTest.set" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
       <module name="CustomList" />
       <extension name="coverage">
         <pattern>
@@ -351,13 +440,18 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.company" />
       <option name="MAIN_CLASS_NAME" value="com.company.MyListTest" />
+<<<<<<< HEAD
       <option name="METHOD_NAME" value="isEmpty" />
+=======
+      <option name="METHOD_NAME" value="set" />
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="JUnit.MyListTest.addAll" />
       <item itemvalue="JUnit.MyListTest.addAll1" />
       <item itemvalue="JUnit.MyListTest.isEmpty" />
@@ -371,6 +465,21 @@
         <item itemvalue="JUnit.MyListTest.isEmpty" />
         <item itemvalue="JUnit.MyListTest.addAll1" />
         <item itemvalue="JUnit.MyListTest.addAll" />
+=======
+      <item itemvalue="JUnit.MyListTest.containsAll" />
+      <item itemvalue="JUnit.MyListTest.addAll" />
+      <item itemvalue="JUnit.MyListTest.addAll1" />
+      <item itemvalue="JUnit.MyListTest.clear" />
+      <item itemvalue="JUnit.MyListTest.set" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyListTest.set" />
+        <item itemvalue="JUnit.MyListTest.clear" />
+        <item itemvalue="JUnit.MyListTest.addAll1" />
+        <item itemvalue="JUnit.MyListTest.addAll" />
+        <item itemvalue="JUnit.MyListTest.containsAll" />
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
       </list>
     </recent_temporary>
   </component>
@@ -385,17 +494,27 @@
       <option name="presentableId" value="Default" />
       <updated>1537436974525</updated>
       <workItem from="1537467984112" duration="7920000" />
+<<<<<<< HEAD
       <workItem from="1537476356982" duration="6792000" />
       <workItem from="1537483688335" duration="3396000" />
+=======
+      <workItem from="1537476356982" duration="7270000" />
+      <workItem from="1537483690325" duration="879000" />
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
     </task>
     <servers />
   </component>
   <component name="TestHistory">
+<<<<<<< HEAD
     <history-entry file="MyListTest_get - 2018.09.21 at 02h 34m 17s.xml">
       <configuration name="MyListTest.get" configurationId="JUnit" />
     </history-entry>
     <history-entry file="MyListTest_get - 2018.09.21 at 02h 34m 41s.xml">
       <configuration name="MyListTest.get" configurationId="JUnit" />
+=======
+    <history-entry file="MyListTest_addAll - 2018.09.21 at 01h 13m 43s.xml">
+      <configuration name="MyListTest.addAll" configurationId="JUnit" />
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
     </history-entry>
     <history-entry file="MyListTest_get - 2018.09.21 at 02h 36m 26s.xml">
       <configuration name="MyListTest.get" configurationId="JUnit" />
@@ -421,12 +540,22 @@
     <history-entry file="MyListTest_get - 2018.09.21 at 02h 39m 46s.xml">
       <configuration name="MyListTest.get" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MyListTest_clear - 2018.09.21 at 01h 54m 19s.xml">
+      <configuration name="MyListTest.clear" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="18108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+=======
+    <option name="totallyTimeSpent" value="16069000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1096" height="1906" extended-state="6" />
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.4681467" />
@@ -498,8 +627,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/MyList.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="295">
           <caret line="312" column="9" lean-forward="true" selection-start-line="312" selection-start-column="9" selection-end-line="312" selection-end-column="9" />
+=======
+        <state relative-caret-position="1299">
+          <caret line="320" column="9" lean-forward="true" selection-start-line="320" selection-start-column="9" selection-end-line="320" selection-end-column="9" />
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#618#619#0" expanded="true" />
@@ -520,16 +654,47 @@
             <element signature="e#4709#4710#0" expanded="true" />
             <element signature="method#add#0;class#MyList#0" />
             <element signature="method#remove#0;class#MyList#0" />
+<<<<<<< HEAD
             <element signature="method#addAll#1;class#MyList#0" />
             <element signature="method#clear#0;class#MyList#0" />
             <element signature="e#6667#6668#0" expanded="true" />
             <element signature="e#6694#6695#0" expanded="true" />
             <element signature="method#add#1;class#MyList#0" />
+=======
+            <element signature="e#6694#6695#0" expanded="true" />
+            <element signature="e#6721#6722#0" expanded="true" />
+            <element signature="method#add#1;class#MyList#0" />
+            <element signature="e#6918#6919#0" expanded="true" />
+            <element signature="e#6945#6946#0" expanded="true" />
+            <element signature="e#6995#6996#0" expanded="true" />
+            <element signature="e#7019#7020#0" expanded="true" />
+            <element signature="e#7073#7074#0" expanded="true" />
+            <element signature="e#7097#7098#0" expanded="true" />
+            <element signature="e#7156#7157#0" expanded="true" />
+            <element signature="e#7199#7200#0" expanded="true" />
+            <element signature="e#7267#7268#0" expanded="true" />
+            <element signature="e#7294#7295#0" expanded="true" />
+            <element signature="e#7366#7367#0" expanded="true" />
+            <element signature="e#7393#7394#0" expanded="true" />
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
             <element signature="method#toString#0;class#MyList#0" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/Tests/com/company/MyListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="222" column="40" selection-start-line="222" selection-start-column="40" selection-end-line="222" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 718a6b91621a7b7a0fd7ba570ee2b6028014ed1b
   </component>
   <component name="masterDetails">
     <states>
