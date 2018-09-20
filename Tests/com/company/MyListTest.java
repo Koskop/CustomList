@@ -194,6 +194,17 @@ public class MyListTest {
 
     @Test
     public void clear() {
+        List list1 = new MyList();
+        list1.add("A");
+        list1.add("B");
+        list1.add("D");
+        list1.add("B");
+        list1.add("C");
+        list1.add("A");
+
+        list1.clear();
+
+        System.out.println(list1.isEmpty());
     }
 
     @Test
@@ -202,6 +213,16 @@ public class MyListTest {
 
     @Test
     public void set() {
+        List list1 = new MyList();
+        list1.add("A");
+        list1.add("B");
+        list1.add("D");
+
+        list1.set(2, "C");
+
+        System.out.println(list1.toString());
+
+
     }
 
     @Test

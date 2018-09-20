@@ -299,7 +299,11 @@ public class MyList<E> implements List<E> {
 
     @Override
     public void clear() {
+        Iterator cItr = iterator();
 
+        while (cItr.hasNext()) {
+            cItr.remove();
+        }
     }
 
     @Override
@@ -309,7 +313,16 @@ public class MyList<E> implements List<E> {
 
     @Override
     public E set(int index, E element) {
-        return null;
+
+        ListIterator cItr = listIterator();
+
+        for (int i =0; i <= index - 1; i++) {
+            cItr.next();
+        }
+
+        cItr.set(element);
+
+        return element;
     }
 
     @Override
