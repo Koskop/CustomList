@@ -424,5 +424,46 @@ public class MyList<E> implements List<E> {
         return s;
     }
 
+    public boolean function (  )
+    {
+        List list2 = new MyList();
+        list2.add("B");
+        list2.add("D");
 
+        List list1 = new MyList();
+        list1.add("A");
+        list1.add("B");
+        list1.add("D");
+        list1.add("F");
+        list1.add("C");
+        list1.add("A");
+
+        int size = list2.size();
+        int indexElement=0;
+
+        for (int i=0; i<list1.size();i++)
+        {
+            if(list2.get(0) == list1.get(i)) {
+                indexElement= i;
+            }
+                continue;
+        }
+        System.out.print(indexElement);
+
+        for (int i=indexElement; i<indexElement+1; i++)
+        {
+            if(list1.get(i) != list2.get(i-indexElement)) {
+                indexElement= i;
+                break;
+            }
+            else
+                System.out.print("qw");
+
+        }
+
+
+
+
+        return false;
+    }
 }

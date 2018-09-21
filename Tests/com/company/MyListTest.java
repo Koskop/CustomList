@@ -284,7 +284,10 @@ public class MyListTest {
         list.add("A");
         list.add("D");
 
-        System.out.println(list.lastIndexOf("A"));
+    //    System.out.println(list.lastIndexOf("A"));
+
+        MyList q = new MyList();
+        q.function();
 
     }
 
