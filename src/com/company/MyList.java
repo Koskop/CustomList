@@ -131,7 +131,21 @@ public class MyList<E> implements List<E> {
 
         @Override
         public void add(Object o) {
-            pop((E)o);
+             if(curent.prevElement == null) {
+                push((E)o);
+                return;
+
+             }
+
+            else if(curent.nextElement == null) {
+                pop((E)o);
+                return;
+            }
+
+            else {
+                Node<E> eNode = new Node<>(curent.prevElement, curent, (E)o);
+                curent.prevElement = curent.prevElement.nextElement = eNode;
+             }
         }
     }
 
@@ -331,7 +345,13 @@ public class MyList<E> implements List<E> {
 
     @Override
     public void add(int index, E element) {
+        ListIterator cItr = listIterator();
 
+        for (int i =0; i <= index - 1; i++) {
+            cItr.next();
+        }
+
+        cItr.add(element);
     }
 
     @Override

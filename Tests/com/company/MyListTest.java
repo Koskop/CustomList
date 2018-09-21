@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import java.util.Iterator;
 import java.util.List;
-
+import java.util.ListIterator;
 
 
 public class MyListTest {
@@ -234,6 +234,18 @@ public class MyListTest {
 
     @Test
     public void add1() {
+        List list = new MyList();
+        list.add("A");
+        list.add("B");
+        list.add("C");
+        list.add("D");
+
+        ListIterator iterator = list.listIterator();
+
+        list.add(3, "X");
+
+        System.out.println(list.toString());
+
     }
 
     @Test
