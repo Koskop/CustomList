@@ -367,12 +367,31 @@ public class MyList<E> implements List<E> {
 
     @Override
     public int indexOf(Object o) {
-        return 0;
+        int indexOf = 0;
+        Iterator iterator = this.iterator();
+
+        while (iterator.hasNext()) {
+            if (iterator.next().equals(o)) {
+                return indexOf;
+            }
+            indexOf++;
+        }
+        return -1;
     }
 
     @Override
     public int lastIndexOf(Object o) {
-        return 0;
+        int lastIndexOf = -1;
+        int indexOf = 0;
+        Iterator iterator = this.iterator();
+
+        while (iterator.hasNext()) {
+            if (iterator.next().equals(o)) {
+                lastIndexOf = indexOf;
+            }
+            indexOf++;
+        }
+        return lastIndexOf;
     }
 
     @Override
