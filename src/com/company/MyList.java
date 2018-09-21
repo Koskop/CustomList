@@ -131,16 +131,17 @@ public class MyList<E> implements List<E> {
 
         @Override
         public void add(Object o) {
-             if(curent.prevElement == null) {
+
+            if(curent == null) {
+                pop((E)o);
+                return;
+            }
+
+             if (curent.prevElement == null) {
                 push((E)o);
                 return;
 
              }
-
-            else if(curent.nextElement == null) {
-                pop((E)o);
-                return;
-            }
 
             else {
                 Node<E> eNode = new Node<>(curent.prevElement, curent, (E)o);

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fde8a7c8-7740-444f-b164-09c23205ddf7" name="Default Changelist" comment="" />
+    <list default="true" id="fde8a7c8-7740-444f-b164-09c23205ddf7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Tests/com/company/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/company/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MyList.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +20,8 @@
             <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/Tests/com/company/MyListTest.java">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="187">
-                    <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+                  <state relative-caret-position="459">
+                    <caret line="244" selection-start-line="244" selection-end-line="244" />
                   </state>
                 </provider>
               </entry>
@@ -64,23 +67,36 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1611259848">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="24" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/MyList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1208">
-              <caret line="311" column="10" selection-start-line="311" selection-start-column="10" selection-end-line="311" selection-end-column="10" />
+            <state relative-caret-position="406">
+              <caret line="137" column="13" lean-forward="true" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -105,6 +121,8 @@
         <option value="$PROJECT_DIR$/src/list/MyIterator.java" />
         <option value="$PROJECT_DIR$/src/list/MyList.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/Tests/com/company/MyListTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MyList.java" />
       </list>
     </option>
   </component>
@@ -169,7 +187,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537488905984" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537489799039" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -188,13 +206,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyListTest.size">
+  <component name="RunManager" selected="JUnit.MyListTest.add1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="CustomJavaList" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyListTest.add1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CustomList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.MyListTest" />
+      <option name="METHOD_NAME" value="add1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -218,9 +252,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.MyListTest.size" />
+      <item itemvalue="JUnit.MyListTest.add1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyListTest.add1" />
         <item itemvalue="JUnit.MyListTest.size" />
         <item itemvalue="Application.Main" />
       </list>
@@ -243,9 +279,24 @@
     <history-entry file="MyListTest_size - 2018.09.21 at 03h 14m 58s.xml">
       <configuration name="MyListTest.size" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MyListTest_add1 - 2018.09.21 at 03h 18m 38s.xml">
+      <configuration name="MyListTest.add1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyListTest_add1 - 2018.09.21 at 03h 21m 23s.xml">
+      <configuration name="MyListTest.add1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyListTest_add1 - 2018.09.21 at 03h 21m 41s.xml">
+      <configuration name="MyListTest.add1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyListTest_add1 - 2018.09.21 at 03h 24m 00s.xml">
+      <configuration name="MyListTest.add1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyListTest_add1 - 2018.09.21 at 03h 27m 27s.xml">
+      <configuration name="MyListTest.add1" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="614000" />
+    <option name="totallyTimeSpent" value="1447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1096" height="1906" extended-state="6" />
@@ -260,8 +311,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27088037" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27088037" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39954853" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -289,10 +340,10 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/MyList.java</url>
-          <line>140</line>
+          <url>file://$PROJECT_DIR$/Tests/com/company/MyListTest.java</url>
+          <line>244</line>
           <properties />
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -316,21 +367,66 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1208">
-          <caret line="311" column="10" selection-start-line="311" selection-start-column="10" selection-end-line="311" selection-end-column="10" />
+          <caret line="337" column="10" selection-start-line="337" selection-start-column="10" selection-end-line="337" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#870#1063#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/com/company/MyListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="459">
+          <caret line="244" selection-start-line="244" selection-end-line="244" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+          <folding>
+            <element signature="e#2111#2112#0" expanded="true" />
+            <element signature="e#2155#2156#0" expanded="true" />
+            <element signature="e#6484#6648#0" expanded="true" />
+            <element signature="e#6647#6648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/MyList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
+        <state relative-caret-position="406">
+          <caret line="137" column="13" lean-forward="true" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
         </state>
       </provider>
     </entry>
