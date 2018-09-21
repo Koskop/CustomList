@@ -100,7 +100,7 @@ public class MyListTest {
     }
 
     @Test
-    public void remove() {
+    public void remove1() {
 
         List list = new MyList();
         list.add("A");
@@ -249,7 +249,16 @@ public class MyListTest {
     }
 
     @Test
-    public void remove1() {
+    public void remove() {
+        List list = new MyList();
+        list.add("A");
+        list.add("B");
+        list.add("C");
+        list.add("D");
+
+        list.remove(3);
+
+            System.out.print(list);
     }
 
     @Test
