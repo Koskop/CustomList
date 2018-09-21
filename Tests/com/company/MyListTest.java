@@ -186,6 +186,7 @@ public class MyListTest {
 
     @Test
     public void removeAll() {
+
     }
 
     @Test
@@ -263,10 +264,28 @@ public class MyListTest {
 
     @Test
     public void indexOf() {
+        List list = new MyList();
+        list.add("A");
+        list.add("B");
+        list.add("C");
+        list.add("D");
+
+        System.out.println(list.indexOf("E"));
+
     }
 
     @Test
     public void lastIndexOf() {
+        List list = new MyList();
+        list.add("A");
+        list.add("B");
+        list.add("C");
+        list.add("D");
+        list.add("A");
+        list.add("D");
+
+        System.out.println(list.lastIndexOf("A"));
+
     }
 
     @Test

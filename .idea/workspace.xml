@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fde8a7c8-7740-444f-b164-09c23205ddf7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/company/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/com/company/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/com/company/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CustomList/com/company/MyList$MyListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CustomList/com/company/MyList$MyListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CustomList/com/company/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CustomList/com/company/MyList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/CustomList/com/company/MyListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/CustomList/com/company/MyListTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +23,8 @@
             <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/Tests/com/company/MyListTest.java">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="391">
-                    <caret line="240" column="22" lean-forward="true" selection-start-line="240" selection-start-column="22" selection-end-line="240" selection-end-column="22" />
+                  <state relative-caret-position="143">
+                    <caret line="188" selection-start-line="188" selection-end-line="188" />
                   </state>
                 </provider>
               </entry>
@@ -79,12 +83,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="25" />
+          <entry key="java" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="25" />
+          <entry key="JAVA" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -99,8 +103,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/MyList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="772">
-              <caret line="378" column="29" lean-forward="true" selection-start-line="378" selection-start-column="29" selection-end-line="378" selection-end-column="29" />
+            <state relative-caret-position="445">
+              <caret line="306" column="5" lean-forward="true" selection-start-line="306" selection-start-column="5" selection-end-line="306" selection-end-column="5" />
+              <folding>
+                <element signature="e#4378#4379#0" expanded="true" />
+                <element signature="e#4405#4406#0" expanded="true" />
+                <element signature="e#4570#4571#0" expanded="true" />
+                <element signature="e#4623#4624#0" expanded="true" />
+                <element signature="e#4674#4675#0" expanded="true" />
+                <element signature="e#4713#4714#0" expanded="true" />
+                <element signature="e#5079#5080#0" expanded="true" />
+                <element signature="e#5106#5107#0" expanded="true" />
+                <element signature="e#6769#6770#0" expanded="true" />
+                <element signature="e#6797#6798#0" expanded="true" />
+                <element signature="e#6860#6861#0" expanded="true" />
+                <element signature="e#6888#6889#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -191,7 +209,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537490420740" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537491599081" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -210,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyListTest.add1">
+  <component name="RunManager" selected="JUnit.MyListTest.lastIndexOf">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="CustomJavaList" />
@@ -237,6 +255,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyListTest.indexOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CustomList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.MyListTest" />
+      <option name="METHOD_NAME" value="indexOf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyListTest.lastIndexOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CustomList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.MyListTest" />
+      <option name="METHOD_NAME" value="lastIndexOf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyListTest.size" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CustomList" />
       <extension name="coverage">
@@ -257,9 +307,13 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.MyListTest.size" />
       <item itemvalue="JUnit.MyListTest.add1" />
+      <item itemvalue="JUnit.MyListTest.indexOf" />
+      <item itemvalue="JUnit.MyListTest.lastIndexOf" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyListTest.lastIndexOf" />
+        <item itemvalue="JUnit.MyListTest.indexOf" />
         <item itemvalue="JUnit.MyListTest.add1" />
         <item itemvalue="JUnit.MyListTest.size" />
         <item itemvalue="Application.Main" />
@@ -280,12 +334,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyListTest_size - 2018.09.21 at 03h 14m 58s.xml">
-      <configuration name="MyListTest.size" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyListTest_add1 - 2018.09.21 at 03h 18m 38s.xml">
-      <configuration name="MyListTest.add1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MyListTest_add1 - 2018.09.21 at 03h 21m 23s.xml">
       <configuration name="MyListTest.add1" configurationId="JUnit" />
     </history-entry>
@@ -304,9 +352,21 @@
     <history-entry file="MyListTest_add1 - 2018.09.21 at 03h 30m 01s.xml">
       <configuration name="MyListTest.add1" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MyListTest_indexOf - 2018.09.21 at 03h 51m 20s.xml">
+      <configuration name="MyListTest.indexOf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyListTest_indexOf - 2018.09.21 at 03h 51m 30s.xml">
+      <configuration name="MyListTest.indexOf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyListTest_indexOf - 2018.09.21 at 03h 51m 40s.xml">
+      <configuration name="MyListTest.indexOf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyListTest_lastIndexOf - 2018.09.21 at 03h 53m 02s.xml">
+      <configuration name="MyListTest.lastIndexOf" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2128000" />
+    <option name="totallyTimeSpent" value="3305000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1096" height="1906" extended-state="6" />
@@ -416,15 +476,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/com/company/MyListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="240" column="22" lean-forward="true" selection-start-line="240" selection-start-column="22" selection-end-line="240" selection-end-column="22" />
+        <state relative-caret-position="143">
+          <caret line="188" selection-start-line="188" selection-end-line="188" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/MyList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="772">
-          <caret line="378" column="29" lean-forward="true" selection-start-line="378" selection-start-column="29" selection-end-line="378" selection-end-column="29" />
+        <state relative-caret-position="445">
+          <caret line="306" column="5" lean-forward="true" selection-start-line="306" selection-start-column="5" selection-end-line="306" selection-end-column="5" />
+          <folding>
+            <element signature="e#4378#4379#0" expanded="true" />
+            <element signature="e#4405#4406#0" expanded="true" />
+            <element signature="e#4570#4571#0" expanded="true" />
+            <element signature="e#4623#4624#0" expanded="true" />
+            <element signature="e#4674#4675#0" expanded="true" />
+            <element signature="e#4713#4714#0" expanded="true" />
+            <element signature="e#5079#5080#0" expanded="true" />
+            <element signature="e#5106#5107#0" expanded="true" />
+            <element signature="e#6769#6770#0" expanded="true" />
+            <element signature="e#6797#6798#0" expanded="true" />
+            <element signature="e#6860#6861#0" expanded="true" />
+            <element signature="e#6888#6889#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
